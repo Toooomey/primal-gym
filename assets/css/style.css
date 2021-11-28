@@ -42,6 +42,12 @@ h1 {
     padding-top: 50px;
 }
 
+#header-gallery {
+    text-align: center;
+    color: #fafafa;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
 .social {
 
     text-align: center;
@@ -52,14 +58,9 @@ h1 {
     
 }
 
-.social:hover {
-    color:black;
-}
-
-
-
 
 .alternate-font {
     font-family: "Roboto" sans-serif;
 }
+
 
