@@ -49,9 +49,15 @@ h1 {
     padding-bottom: 10px;
     word-spacing: 28px;
     
-
     
 }
+
+.social:hover {
+    color:black;
+}
+
+
+
 
 .alternate-font {
     font-family: "Roboto" sans-serif;
