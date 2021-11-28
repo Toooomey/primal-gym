@@ -2,6 +2,7 @@ h1 {
     color: whitesmoke;
 }
 
+
 .container-fluid {
 
     position: relative;
@@ -47,6 +48,12 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
     word-spacing: 28px;
+    
 
     
 }
+
+.alternate-font {
+    font-family: "Roboto" sans-serif;
+}
+
