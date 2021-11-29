@@ -1,7 +1,4 @@
-body {
-    min-height: 100%;
-    
-}
+
 
 h1 {
     color: whitesmoke;
@@ -16,9 +13,14 @@ h1 {
 .navbar-brand {
     
     position:fixed-top;
-   
     
 }
+
+.navbar {
+
+    position: relative;
+}
+
 
 .bg-image {
     background-repeat: no-repeat;
@@ -34,7 +36,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 100vw;
+    width: 90vw;
 }
 
 
