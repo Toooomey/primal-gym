@@ -1,3 +1,8 @@
+body {
+    min-height: 100%;
+    
+}
+
 h1 {
     color: whitesmoke;
 }
@@ -17,7 +22,10 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+
 }
+
+
 
 #card-container {
     position: absolute;
@@ -26,6 +34,7 @@ h1 {
     transform: translate(-50%, -50%);
     width: 90vw;
 }
+
 
 #card-container h2 {
     text-align: center;
@@ -64,3 +73,23 @@ h1 {
 }
 
 
+.card-columns {
+    @include media-breakpoint-only (xl) {
+        column-count: 5;
+    }
+    @include media-breakpoint-only (l) {
+        column-count: 4;
+    }
+    @include media-breakpoint-only (md) {
+        column-count: 3;
+    } 
+    @include media-breakpoint-only (xl) {
+            column-count: 2;
+        }
+    }
+
+    
+    .bi:hover {
+
+        fill: lightgray
+    }
