@@ -111,3 +111,22 @@ h2 {
        padding-top: 100px;
    }
 
+   iframe {
+    margin: 0 auto;
+    display: block;
+    width: 70%;
+    overflow-y: hidden;
+    padding-bottom: 65px;
+    
+}
+
+.iframe-wrapper {
+
+    position:fixed;
+    bottom:5% ;left:0;
+    width:100%;
+}
+
+.contact-text {
+    text-align: center;
+}
