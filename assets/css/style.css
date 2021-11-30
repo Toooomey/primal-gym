@@ -49,16 +49,16 @@ h2 {
 
 
 #card-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 90vw;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom:50px;
 }
 
 .card {
     display: inline-block;
-    margin: 6%;
+    margin: 4%;
 }
 
 
@@ -79,6 +79,11 @@ h2 {
     padding-top: 40px;
     padding-bottom: 5px;
 }
+
+.gallery {
+    margin-bottom:65px;
+}
+
 .social {
 
     text-align: center;
@@ -94,21 +99,6 @@ h2 {
     font-family: "Roboto" sans-serif;
 }
 
-
-.card-columns {
-    @include media-breakpoint-only (xl) {
-        column-count: 5;
-    }
-    @include media-breakpoint-only (l) {
-        column-count: 4;
-    }
-    @include media-breakpoint-only (md) {
-        column-count: 3;
-    } 
-    @include media-breakpoint-only (sm) {
-            column-count: 2;
-        }
-    }
 
     
     .bi:hover {
