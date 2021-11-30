@@ -1,17 +1,26 @@
 html {
-    height: 100%;
-  }
-  body {
     min-height: 100%;
+    
   }
 
+
+  body {
+    min-height: 100%;
+    background-image: url("../../assets/images/barbell2.jpg");
+    background-size: cover;
+  }
+
+
 h1 {
-    color: whitesmoke;
+    color: white;
 }
+
+
 
 h2 {
     text-align: center;
 }
+
 
 .container-fluid {
 
