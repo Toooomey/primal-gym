@@ -1,6 +1,5 @@
 html {
-    min-height: 100%;
-    
+    min-height: 100%; 
   }
 
 
@@ -29,8 +28,7 @@ h2 {
 
 .navbar-brand {
     
-    position:fixed-top;
-    
+    position:fixed-top; 
 }
 
 .navbar {
@@ -39,12 +37,6 @@ h2 {
 }
 
 
-.bg-image {
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-
-}
 
 
 
@@ -56,16 +48,16 @@ h2 {
     margin-bottom:50px;
 }
 
-.card {
-    display: inline-block;
-    margin: 4%;
-}
 
 
 #card-container h2 {
     text-align: center;
 }
 
+.card {
+    display: inline-block;
+    margin: 4%;
+}
 
 #header {
     text-align: center;
@@ -111,9 +103,11 @@ h2 {
 
     max-width: 50%;
     margin: 0 auto;
+    border: solid white;
     
    }
 
    .table-container {
        padding-top: 100px;
    }
+
