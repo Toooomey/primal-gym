@@ -1,3 +1,6 @@
+/* Main Page */
+
+
 html {
     min-height: 100%; 
   }
@@ -10,53 +13,16 @@ html {
   }
 
 
+/* Headers */
+
+
 h1 {
     color: white;
 }
 
 
-
 h2 {
     text-align: center;
-}
-
-
-.container-fluid {
-
-    position: relative;
-}
-
-.navbar-brand {
-    
-    position:fixed-top; 
-}
-
-.navbar {
-
-    position: relative;
-}
-
-
-
-
-
-#card-container {
-    display: flex;
-    flex-flow: row;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin-bottom:50px;
-}
-
-
-
-#card-container h2 {
-    text-align: center;
-}
-
-.card {
-    display: inline-block;
-    margin: 4%;
 }
 
 #header {
@@ -72,9 +38,63 @@ h2 {
     padding-bottom: 5px;
 }
 
+.alternate-font {
+    font-family: "Roboto",sans-serif;
+}
+
+
+/* Navbar */
+
+.navbar {
+
+    position: relative;
+}
+
+
+.navbar-brand {
+    
+    position:static; 
+}
+
+/* Cards */
+
+.container-fluid {
+
+    position: relative;
+}
+
+#card-container {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom:50px;
+}
+
+
+#card-container h2 {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    margin: 4%;
+}
+
+.contact-text {
+    text-align: center;
+}
+
+/* Gallery */
+
+
 .gallery {
     margin-bottom:65px;
 }
+
+
+/* Social Links */
+
 
 .social {
 
@@ -83,22 +103,17 @@ h2 {
     padding-bottom: 10px;
     word-spacing: 28px;
     
-    
+}
+
+.bi:hover {
+
+    fill: lightgray
 }
 
 
-.alternate-font {
-    font-family: "Roboto" sans-serif;
-}
-
-
+/* Table */
     
-    .bi:hover {
-
-        fill: lightgray
-    }
-
-
+ 
    .table {
 
     max-width: 50%;
@@ -111,6 +126,9 @@ h2 {
        padding-top: 100px;
    }
 
+
+   /* Iframe */
+
    iframe {
     margin: 0 auto;
     display: block;
@@ -121,6 +139,3 @@ h2 {
 }
 
 
-.contact-text {
-    text-align: center;
-}
