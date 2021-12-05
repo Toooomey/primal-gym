@@ -68,7 +68,9 @@ h2 {
     flex-flow: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-bottom:50px;
+    padding-bottom: 50px;
+    width:auto;
+    
 }
 
 
