@@ -74,11 +74,14 @@ h2 {
 
 #card-container h2 {
     text-align: center;
+
 }
 
 .card {
     display: inline-block;
     margin: 4%;
+    padding: 0%;
+    
 }
 
 .contact-text {
@@ -124,6 +127,7 @@ h2 {
 
    .table-container {
        padding-top: 100px;
+       padding-bottom: 65px;
    }
 
 
