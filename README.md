@@ -18,7 +18,7 @@ the User Centric Frontend Development Project.
 
 - [UX](#ux)
     - [User stories](#user-stories)
-    - [Structure of the website](#structure-of-the-website)
+    - [Website structure](#website-structure)
     - [Wireframes](#wireframes)
     - [Design](#design)
 - [Features](#features)
@@ -54,7 +54,7 @@ the User Centric Frontend Development Project.
 * I would like to be able to view the location of the gym.
 * I would like to be able to view the contact details of the gym
 
-## Structure of the website
+## Website structure
 
 The Primal Gym website is meant to be a responsive website that displays well and is easy to use across all media screen sizes.
 The site consists of a home page, gallery, classes, and contact page. The links are clearly labelled and are direct users to the content
