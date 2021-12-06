@@ -18,7 +18,7 @@ the User Centric Frontend Development Project.
 # Table of contents
 
 - [UX](#ux)
-    - [Website owner business goals](#website-owner-business-goals)
+    - [Website owner goals](#website-owner-business-goals)
     - [User goals](#user-goals)
         - [New user goals](#new-user-goals)
         - [Returning user goals](#returning-user-goals)
@@ -48,7 +48,7 @@ the User Centric Frontend Development Project.
 The reason for creating the Primal Gym Website is to gain exposure for a local gym and fitness club.
 The site aims to attract new gym members by showing what the gym has to offer in terms of equipment,
 classes and clubs. The site hopes to gain new members who will contact the gym after discovering the 
-clubs facilities and opening times.
+clubs facilities and flexible opening times.
 
 
 ## User goals
