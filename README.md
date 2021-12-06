@@ -50,7 +50,7 @@ classes and clubs. The site hopes to gain new members who will contact the gym a
 clubs facilities and flexible opening times.
 
 
-## User goal
+## User goals
 
 ### New user goals:
 - user is able to find information about facilties offered.
