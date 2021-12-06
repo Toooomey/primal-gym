@@ -21,7 +21,6 @@ the User Centric Frontend Development Project.
     - [User goals](#user-goals)
         - [New user goals](#new-user-goals)
         - [Returning user goals](#returning-user-goals)
-        - [Website owner business goals](#website-owner-business-goals)
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
