@@ -169,9 +169,7 @@ To ensure all code is correct and without issue it was validated using the follo
 ___
 # Deployment
 
-The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system.
-I used push command in Gitpod to save changes into GitHub.
-
+The project was deployed on GitHub Pages using the following steps
 To deploy a project I had to:
 
 * Log in to GitHub and click on repository to deploy ([MP1](https://github.com/marcin-kli/MP1))
