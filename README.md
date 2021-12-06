@@ -68,17 +68,15 @@ clubs facilities and flexible opening times.
 ## User stories
 
 ### As a business owner:
-*
-
-* I would like to present myself and my offer on the website clearly to potential customers.
-* I need to make sure that my current and new customers will find a professional help with their diets, personal or group trainings.
-* I want my customers to be able to learn how to use my website intuitively and easily.
-* I would like to build and maintain relationship with potential and current customers.
+* I would like to attract new customers to become members of the gym.
+* I would like the gym's website to clearly display what facilities we have to offer.
+* I would like to develop relationships with our customers through our social media platforms.
 
 ### As a new customer:
-* I wish to find information about personal trainer and check her/his qualifications.
-* I would like to contact with a diet coach to change my eating habits and start healthy lifestyle. 
-* I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
+* I want to be able to discover what are the opening hours.
+* I want to find out what equipment the gym currently has.
+* I want to find out what time classes are available.
+* I want to be able to easily contact the gym should I need to.
 
 ### As a returning customer:
 
