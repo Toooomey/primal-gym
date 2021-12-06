@@ -107,7 +107,7 @@ The Main colours used in the project were black and red:
 
 ### Fonts 
 
-* As a main font I used Sans-serif, and an alternate font for the Headers Montserrat.
+* As a main font I used Sans-serif and for the alternate font for the Headers I used Montserrat.
 
 ### Images
 
