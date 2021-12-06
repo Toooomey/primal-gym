@@ -54,9 +54,11 @@ clubs facilities and flexible opening times.
 ## User goals
 
 ### New user goals:
-- user is able to find information about professional fitness trainer.
-- user can easily locate class description, personal training sessions description and diet coaching sessions description.
-- find location of the place and contact information.
+- user is able to find information about facilties offered.
+- user is able to find out what classes are available.
+- user is able to find out location of gym.
+- user is able to find out opening times
+- user is able to find out how to contact gym.
 
 ### Returning user goals:
 - user can learn more about instructor.
