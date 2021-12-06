@@ -99,7 +99,7 @@ To create the site wireframes I used the software Balsamiq.
 ## Surface
 
 ### Colors
-The Main colours used in the project were black, white and red:
+* The Main colours used in the project were black, white and red.
 
 ### Fonts 
 
