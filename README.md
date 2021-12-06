@@ -235,8 +235,12 @@ ___
 * [Jonathan Borba](https://unsplash.com/photos/lrQPTQs7nQQ)
 
 #### Pexels.com:
-[Anush Gorak](https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-*
+
+* [Anush Gorak](https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
 
 [Back to Table of contents](#table-of-contents)
 ___
+# Aknowledgements
+
+I would like to thank both my tutors and mentor at the Code Insitute
