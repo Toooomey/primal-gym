@@ -101,6 +101,8 @@ This website is responsive across all devices. Website displays class informatio
 ___
 # Technologies used
 
+## Languages used
+
 ### HTML5
 * As a structure language.
 
