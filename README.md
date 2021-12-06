@@ -243,4 +243,6 @@ ___
 ___
 # Aknowledgements
 
-I would like to thank both my tutors and mentor at the Code Insitute
+I would like to thank both my tutors and mentors at the Code Insitute.
+
+[Back to Table of contents](#table-of-contents)
