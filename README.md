@@ -12,7 +12,7 @@ The main aim is to build an HTML and CSS based website, incorporating the use of
 the User Centric Frontend Development Project.
 
 
-## [Live Site - Github Pages](https://toooomey.github.io/primal-gym/)
+## [Live Webite - Github Pages](https://toooomey.github.io/primal-gym/)
 ---
 
 # Table of contents
@@ -43,7 +43,7 @@ the User Centric Frontend Development Project.
 
 # UX
 
-## Website owner business goals
+## Website owner goals
 
 The main reason to create this website is to help present a fitness instructor to the public.
 Page owner can present herself, her professional development path, achievements and top skills.
