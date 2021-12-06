@@ -59,11 +59,12 @@ clubs facilities and flexible opening times.
 - user is able to find out location of gym.
 - user is able to find out opening times
 - user is able to find out how to contact gym.
+- user is able to find the gyms social media links.
 
 ### Returning user goals:
-- user can learn more about instructor.
-- user is able to find timetable.
-- user can send a message to the instructor using a contact form.
+- user is able to check class timetables.
+- user is able to check any updates on opening hours.
+- user is able to contact gym through phone, email or social media.
 
 ## User stories
 
