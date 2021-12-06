@@ -101,12 +101,12 @@ This website is responsive across all devices. Website displays class informatio
 ___
 # Technologies used
 
-## Languages used
+### Languages used
 
 * HTML5
 * CSS
 
-## Frameworks, libraries and programs used
+### Frameworks, libraries and programs used
 
 * Bootstrap V5.1 - Used to assist with responsivness
 * Font Awesome - 
