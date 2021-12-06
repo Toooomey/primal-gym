@@ -92,9 +92,9 @@ they would like to view.
 
 ## Wireframes
 
-I used website wireframe.cc to create a wireframes.
+To create the site wireframes I used the software Balsamiq.
 
-![Wireframes](md_images/wireframes.png)
+![Wireframes](https://i1.lensdump.com/i/gNwwz3.png)
 
 ## Surface
 
