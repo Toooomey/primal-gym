@@ -169,8 +169,7 @@ To ensure all code is correct and without issue it was validated using the follo
 ___
 # Deployment
 
-The project was deployed on GitHub Pages using the following steps
-To deploy a project I had to:
+The project was deployed on GitHub Pages using the following steps:
 
 * Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy
 * Go to the `Settings` menu then click the GitHub Pages section
@@ -187,7 +186,7 @@ original repository. To do this:
 * Locate the `Fork` button in the top right corner
 * Click to create a copy of the original repository
 
-## Cloning a repository
+## Locally Cloning a repository
 
 * Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy
 * Locate the `Clone` button
@@ -202,21 +201,12 @@ original repository. To do this:
 ___
 # Credits
 
-
-* To complete this project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
-
-* Ideas and knowledge library:
-
-    * [w3schools.com](https://www.w3schools.com)
-
-    * [css-tricks.com](https://css-tricks.com/)
-
-    * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-        I used code for navbar, jumbotron and card from Bootstrap.
+* To finish this project I used the Code Institute template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* * [Bootstrap V5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ### Code
 
-* Links transition: [CSS transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)
+*
 * Bootstrap: [Kitchen sink](https://getbootstrap.com/docs/4.0/components/card/#kitchen-sink)
 * Bootstrap: [Burger menu](https://getbootstrap.com/docs/4.5/components/navbar/#text)
 * Bootstrap: [Jumbotron](https://getbootstrap.com/docs/4.5/components/jumbotron/)
