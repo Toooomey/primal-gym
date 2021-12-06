@@ -172,16 +172,21 @@ ___
 The project was deployed on GitHub Pages using the following steps
 To deploy a project I had to:
 
-* Log in to GitHub and find the repository [Primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
+* Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
 * Go to the `Settings` menu then click the GitHub Pages section
 * Find source and select `Master Branch`
 * The page should automatically refresh
->  This will now display in a green container - Your site is published at https://toooomey.github.io/primal-gym/
+>  This then displays your site is published at - https://toooomey.github.io/primal-gym/
 
-To run localy:
-* Log in to GitHub and click on repository to download ([MP1](https://github.com/marcin-kli/MP1))
-* select `Code` and click Download the ZIP file.
-* after download you can extract the file and use it in your local environment 
+## Forking a repository
+
+We fork a repoistory so we can make an exact copy of the original so we can alter or make ammendments which do not affect the
+original repository. To do this:
+
+* Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
+* Locate the `Fork` button
+* Click to create a copy of the original repository
+
 
 Alternatively you can [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
