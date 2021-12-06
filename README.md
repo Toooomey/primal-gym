@@ -17,9 +17,6 @@ the User Centric Frontend Development Project.
 # Table of contents
 
 - [UX](#ux)
-    - [User goals](#user-goals)
-        - [New user goals](#new-user-goals)
-        - [Returning user goals](#returning-user-goals)
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
@@ -38,21 +35,6 @@ the User Centric Frontend Development Project.
 
 # UX
 
-## User goals
-
-### New user goals:
-- user is able to find information about facilties offered.
-- user is able to find out what classes are available.
-- user is able to find out location of gym.
-- user is able to find out opening times
-- user is able to find out how to contact gym.
-- user is able to find the gyms social media links.
-
-### Returning user goals:
-- user is able to check class timetables.
-- user is able to check any updates on opening hours.
-- user is able to contact gym through phone, email or social media.
-
 ## User stories
 
 ### As a new visitor:
@@ -60,12 +42,21 @@ the User Centric Frontend Development Project.
 * I want to find out what equipment the gym currently has.
 * I want to find out what time classes are available.
 * I want to be able to easily contact the gym should I need to.
+* user is able to find information about facilties offered.
+* user is able to find out what classes are available.
+* user is able to find out location of gym.
+* user is able to find out opening times
+* user is able to find out how to contact gym.
+* user is able to find the gyms social media links.
 
 ### As a returning visitor:
 
 * I want to be able to check class timetables.
 * I want to be able to check the opening hours of the gym.
 * I would like to be able to view the location of the gym.
+* user is able to check class timetables.
+* user is able to check any updates on opening hours.
+* user is able to contact gym through phone, email or social media.
 
 ## Structure of the website
 
