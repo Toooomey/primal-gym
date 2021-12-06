@@ -68,6 +68,8 @@ clubs facilities and flexible opening times.
 ## User stories
 
 ### As a business owner:
+*
+
 * I would like to present myself and my offer on the website clearly to potential customers.
 * I need to make sure that my current and new customers will find a professional help with their diets, personal or group trainings.
 * I want my customers to be able to learn how to use my website intuitively and easily.
