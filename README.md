@@ -120,11 +120,11 @@ ___
 - I want to find information about the facilties offered.
     > New visitors can see on the main page the selection of facilities offered such as weightlifting, fitness, crossfit and yoga.
 
-- I would like to contact with a diet coach to change my eating habits and start healthy lifestyle.
-    > User can find a contact form in contact page. Alternatively can use an email. Email address if located in a footer the bottom of each page.
+- I want to find out what time classes are available.
+    > New visitors can find class timetables on the classes page.
 
-- I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
-    > Brief class description of fitness group classes can be find on the home page below career path section. Offer site provides more detailed description. Frome there user can click contact us button and send a message to the traier.
+- I want to find out the location of gym.
+    > New visitors can find the address and a map detailing the location of the gym on the contact page.
 
 ### As a returning visitor:
 - I need to contact my diet coach to reschedule my meeting.
