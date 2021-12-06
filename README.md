@@ -52,7 +52,8 @@ the User Centric Frontend Development Project.
 * I want to be able to check class timetables.
 * I want to be able to check the opening hours of the gym.
 * I would like to be able to view the location of the gym.
-* I would like to be able to view the contact details of the gym
+* I would like to be able to view the contact details of the gym.
+* I want to build relationships with gym members via social media.
 
 ## Website structure
 
