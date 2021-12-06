@@ -27,7 +27,6 @@ the User Centric Frontend Development Project.
     - [Wireframes](#wireframes)
     - [Surface](#surface)
 - [Features](#features)
-- [Technology](#technology)
 - [Testing](#testing)
     - [Functionality testing](#functionality-testing)
     - [Compatibility testing](#compatibility-testing)
@@ -114,70 +113,8 @@ To create the site wireframes I used the software Balsamiq.
 ___
 # Features
 
-The website consists of 6 pages. Four are accessible from a navigation menu.
-One is a 404 error page and one is a submission confirmation page for a form.
+This website is responsive across all devices.
 
-The website has below features:
-
-## Navigation bar
-
-* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
-* Navigation scheme:
-
-    * On left side there is a logo. It can be used as navigation link to the main page.
-    * On right side there are four links or burger menu. It contains:
-        * Home
-        * About me
-        * Offer
-        * Contact
-
-## Timetable
-
-* Each site has a timetable on the bottom. Customers can find classes times here.
-
-## Footer
-
-* Footer is consistent on all pages. It has contact details on left side and social links on right side.
-Each link will open in a separate tab in a browser.
-
-## Home
-
-* ### Portfolio section
-
-    * Portfolio includes an image on the left side and profession information on the right side.
-This section is consistent on all pages.
-
-* ### Career path section
-
-    * Career path section contains top achievements and career  points. It is presented as a timeline.
-
-* ### Packages section
-
-    * This part has three packages to choose for a customers. All buttons are linked to offer site.
-
-## About me
-
-* About me gives information about Annie's life and her professional background.
-
-## Offer
-
-* This site provide packages description to customers.
-Here they can find more information and choose interesting offer.
-
-## Contact
-
-* Contact form is a main part on this site. User can contact by filling a form with interesting topic.
-Below a form there is a map with location of a fitness studio.
-
-##  Future implementations
-
-* Create diet coach offer.
-* Add new site with class descriptions.
-* A blog site with fitness advises.
-* Login site for paid content including videos, meals ideas and recipes.
-
-
-[Back to Table of contents](#table-of-contents)
 ___
 # Technologies used
 
