@@ -2,7 +2,8 @@
 
 ## User Centric Frontend Development Milestone Project
 
-![Mockup](https://photos.google.com/photo/AF1QipMVS2JCvZkss-oCpYuqexOaq2XttX50pBzD3Hxq)
+![Mockup](https://i3.lensdump.com/i/gNcAED.png)
+
 
 This website is to showcase a fictional local gym based in Llandaff Fields, looking to gain exposure and
 attract new members to the club while providing users details of the facilities available.
