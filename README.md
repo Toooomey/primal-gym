@@ -227,8 +227,16 @@ ___
 * [Humphrey Muleba](https://unsplash.com/photos/LOA2mTj1vhc)
 * [Bruce Mars](https://unsplash.com/photos/gJtDg6WfMlQ)
 * [Sam Moqadam](https://unsplash.com/photos/Z4Q9KHw9ofE)
-* 
+* [Sam Moqadam](https://unsplash.com/photos/lLD5k8QDYaA)
+* [Sam Moqadam](https://unsplash.com/photos/yiQCexXTXJI)
+* [David Marioni](https://unsplash.com/photos/F_lns58a_ec)
+* [Anastasia Hisel](https://unsplash.com/photos/tpivPdQgC20)
+* [Erik Mclean](https://unsplash.com/photos/1MiLJjXmPhA)
+* [Jonathan Borba](https://unsplash.com/photos/lrQPTQs7nQQ)
 
+#### Pexels.com:
+[Anush Gorak](https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+*
 
 [Back to Table of contents](#table-of-contents)
 ___
