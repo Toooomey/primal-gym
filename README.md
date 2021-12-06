@@ -209,16 +209,25 @@ ___
 * Bootstrap: [Tables](https://getbootstrap.com/docs/5.1/content/tables/)
 
 ### Content:
+
 * To finish this project I used the [Code Institute template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 ### Map:
+
 * [Maps generator](https://maps-generator.com/)
 
 ### Images:
 
 #### Unsplash.com:
-* [annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)
+
 * [Victor Freitas](https://unsplash.com/photos/JbI04nYfaJk)
+* [Alora Griffiths](https://unsplash.com/photos/TTrTW-pFxKw)
+* [Alora Griffiths](https://unsplash.com/photos/E3wehabi_B4)
+* [Sven Mieke](https://unsplash.com/photos/MsCgmHuirDo)
+* [Humphrey Muleba](https://unsplash.com/photos/LOA2mTj1vhc)
+* [Bruce Mars](https://unsplash.com/photos/gJtDg6WfMlQ)
+* [Sam Moqadam](https://unsplash.com/photos/Z4Q9KHw9ofE)
+* 
 
 
 [Back to Table of contents](#table-of-contents)
