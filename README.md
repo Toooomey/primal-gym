@@ -201,7 +201,7 @@ original repository. To do this:
 ___
 # Credits
 
-### Code
+### Code:
 
 * Bootstrap: [Cards](https://getbootstrap.com/docs/5.1/components/card/)
 * Bootstrap: [Grid](https://getbootstrap.com/docs/5.1/layout/grid/)
@@ -209,7 +209,7 @@ ___
 * Bootstrap: [Tables](https://getbootstrap.com/docs/5.1/content/tables/)
 
 ### Content:
-* To finish this project I used the Code Institute template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* To finish this project I used the [Code Institute template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 ### Map:
 * [Maps generator](https://maps-generator.com/)
