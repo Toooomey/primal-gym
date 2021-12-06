@@ -28,6 +28,7 @@ the User Centric Frontend Development Project.
     - [Compatibility](#compatibility)
     - [Performance](#performance)
     - [Code validation](#code-validation)
+    - [Known issues](#known-issues)
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -139,18 +140,17 @@ ___
 
 ## Functionality
 
- I used Mozilla web developer tools and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+The functionality of the site has been tested with chrome developer tools to check for responsiveness and styling issues.
 
 
 ## Compatibility
- Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in both Mozilla web developer tolls and Chrome developer tools. 
- 
- I tested on hardware devices such as: Lenovo ideapad with Ubuntu and Windows OS's, Lenovo smartphone with Android 7, Google pixel 3 with Android 11.
- 
- ## Performance
 
-I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
-I had to do couple of changes to improve performance. Screenshots are presented below:
+The website has been tested across multiple platforms, devices and browsers checked with Chrome and Mozilla developer tools.
+ 
+ 
+## Performance
+
+Performance for the website was checked using the Lighthouse extension in Chrome developer tools. 
 
 
 ## Code validation
@@ -159,8 +159,8 @@ I had to do couple of changes to improve performance. Screenshots are presented 
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
  * [Nu Html Checker](https://validator.w3.org/) to test HTML
 
-## Known bugs
-
+## Known issues
+* Table can leave vertical whitespace on mobile view
 
 [Back to Table of contents](#table-of-contents)
 
