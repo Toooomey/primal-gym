@@ -1,6 +1,6 @@
-# Primal Gym Portfolio Website
+# Primal Gym Portfolio
 
-## User Centric Frontend Development Milestone Project
+## User Centric Frontend Development
 
 ![Mockup](https://i3.lensdump.com/i/gNcAED.png)
 
