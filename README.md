@@ -25,10 +25,9 @@ the User Centric Frontend Development Project.
 - [Testing](#testing)
     - [Functionality testing](#functionality-testing)
     - [Compatibility testing](#compatibility-testing)
-    - [User stories testing](#user-stories-testing)
-    - [Code Validation](#code-validation)
-    - [Issues found during site development](#issues-found-during-site-development)
     - [Performance testing](#performance-testing)
+    - [Code Validation](#code-validation)
+    - [User stories testing](#user-stories-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -118,14 +117,24 @@ ___
 ## Functionality testing 
 
  I used Mozilla web developer tools and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
- 
- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) extension to chrome browser was very helpful.
 
 
 ## Compatibility testing
  Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in both Mozilla web developer tolls and Chrome developer tools. 
  
  I tested on hardware devices such as: Lenovo ideapad with Ubuntu and Windows OS's, Lenovo smartphone with Android 7, Google pixel 3 with Android 11.
+ 
+ ## Performance testing
+
+I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
+I had to do couple of changes to improve performance. Screenshots are presented below:
+
+
+## Code Validation
+ At the and of the project I used two websites to validate a code
+ 
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
+ * [Nu Html Checker](https://validator.w3.org/) to test HTML
 
 
 ## User stories testing
@@ -152,28 +161,7 @@ ___
 
 
 ---
-## Issues found during site development
-
-
-## Performance testing
-
-I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
-I had to do couple of changes to improve performance. Screenshots are presented below:
-
-![bug_performance1](testing/performance1.png)
-![bug_performance2](testing/performance2.png)
-
-Final results:
-![performance_final](testing/performance_final.png)
-I noticed that this tests scores vary from time to time and depends on external libraries as well. 
-
-
-
-## Code Validation
- At the and of the project I used two websites to validate a code
- 
- * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
- * [Nu Html Checker](https://validator.w3.org/) to test HTML
+## Known bugs
 
 
 [Back to Table of contents](#table-of-contents)
