@@ -24,7 +24,7 @@ the User Centric Frontend Development Project.
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
-    - [Surface](#surface)
+    - [Design](#design)
 - [Features](#features)
 - [Testing](#testing)
     - [Functionality testing](#functionality-testing)
@@ -93,7 +93,7 @@ To create the site wireframes I used the software Balsamiq.
 
 ![Wireframes](https://i1.lensdump.com/i/gNwwz3.png)
 
-## Surface
+## Design
 
 ### Colors
 * The Main colours used in the project were black, white and red.
