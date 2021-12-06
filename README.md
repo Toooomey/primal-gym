@@ -91,8 +91,8 @@ ___
 
 ### Languages used
 
-* HTML5
-* CSS
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, libraries and programs used
 
