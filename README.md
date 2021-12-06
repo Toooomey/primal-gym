@@ -172,7 +172,7 @@ ___
 The project was deployed on GitHub Pages using the following steps
 To deploy a project I had to:
 
-* Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
+* Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy
 * Go to the `Settings` menu then click the GitHub Pages section
 * Find source and select `Master Branch`
 * The page should automatically refresh
@@ -180,17 +180,23 @@ To deploy a project I had to:
 
 ## Forking a repository
 
-We fork a repoistory so we can make an exact copy of the original so we can alter or make ammendments which do not affect the
+We fork a repository so we can make an exact copy of the original so we can alter or make ammendments which do not affect the
 original repository. To do this:
 
 * Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
-* Locate the `Fork` button
+* Locate the `Fork` button in the top right corner
 * Click to create a copy of the original repository
 
+## Cloning a repository
 
-Alternatively you can [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-this repository ([MP1](https://github.com/marcin-kli/MP1)) into your github account.
+* Log in to GitHub and locate the repository [primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy
+* Locate the `Clone` button
+* Click clone with HTTPS and copy the link
+* Open Git Bash
+* Change the current working directory to a directory where you want the repository located
+* Type `git clone` and then `paste` the URL you copied in the previous step
+* Press `Enter` and your clone will be created
+
 
 [Back to Table of contents](#table-of-contents)
 ___
