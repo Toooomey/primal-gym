@@ -85,7 +85,9 @@ To create the site wireframes I used the software Balsamiq.
 ___
 # Features
 
-This website is responsive across all devices. Website displays class information, opening hours, galleries and contact information.
+* This website is responsive across all devices. 
+* Website displays class information, opening hours, galleries and contact information.
+* Website is easy to read and accesible to all.
 ___
 # Technologies used
 
