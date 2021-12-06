@@ -80,13 +80,15 @@ clubs facilities and flexible opening times.
 
 ### As a returning customer:
 
-* I need to contact my diet coach to reschedule my meeting.
-* I would like to check timetable for current days and times for a group trainings.
-* I want to show my friend a location of the fitness studio where we can join for a semi private personal training.
+* I want to be able to check class timetables.
+* I want to be able to check the opening hours of the gym.
+* I would like to be able to view the location of the gym.
 
 ## Structure of the website
 
-The website is designed to be easy and user-friendy on all type of devices. On desktop, tablet or mobile device there should be no difference for a user to have a fantastic experience. All parts are designed to achieve maximum user satisfaction. User will get some interaction from the interface as links and buttons will have a hover effects.
+The Primal Gym website is meant to be a responsive website that displays well and is easy to use across all media screen sizes.
+This consists of a Home page, gallery, classes, and contact page. The links are clearly labelled and are direct users to the content
+they would like to view.
 
 ## Wireframes
 
