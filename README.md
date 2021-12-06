@@ -55,13 +55,13 @@ the User Centric Frontend Development Project.
 
 ## User stories
 
-### As a new customer:
+### As a new visitor:
 * I want to be able to discover what are the opening hours.
 * I want to find out what equipment the gym currently has.
 * I want to find out what time classes are available.
 * I want to be able to easily contact the gym should I need to.
 
-### As a returning customer:
+### As a returning visitor:
 
 * I want to be able to check class timetables.
 * I want to be able to check the opening hours of the gym.
@@ -140,22 +140,7 @@ ___
 
 ## User stories testing
 
-### As a business owner:
-
-- I would like to present myself and my offer on the website clearly to potential customers.
-    > Name, photo of the instructor and top skills are on each page in portfolio section. Career path section at home page provides more details.
-
-- I need to make sure that my current and new customers will find a professional help with their diets, personal or group trainings.
-    > Customers can achieve this by contacting through contact form. They can choose interesting topic and describe their needs in a message box.
-
-- I want my customers to be able to learn how to use my website intuitively and easily.
-    > Each site has a fixed navigation menu and is accessible at all times. All content is presented with minimalistic approach.
-
-- I would like to build and maintain relationship with potential and current customers.
-    > Customers are able to find a links to social channels at the bottom of each page. Alternatively they can contact by email or contact form.
-
-
-### As a new customer:
+### As a new visitor:
 - wish to find information about personal trainer and check her/his qualifications.
     > User can see essential description on the home page. More information can be find in about page.
 
@@ -165,7 +150,7 @@ ___
 - I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
     > Brief class description of fitness group classes can be find on the home page below career path section. Offer site provides more detailed description. Frome there user can click contact us button and send a message to the traier.
 
-### As a returning customer:
+### As a returning visitor:
 - I need to contact my diet coach to reschedule my meeting.
     > User can find a contact form in contact page. Alternatively can use social channels or email.
 
@@ -179,41 +164,6 @@ ___
 ---
 ## Issues found during site development
 
-* #### Horizontal scrolling bar on the bottom of the screen.
-![testing_issue_1](testing/testing_issue_1.png)
-
-I used [grid markup](https://getbootstrap.com/docs/4.5/components/card/#header-and-footer)
-to create two sepereate collumns. To achieve this I had to use *.row* in first *div* element and *.col-sm-6* in the second *div* element.
-After that I found that horizontal scrolling bar appear on the bottom of the screen.
-Using mozilla developer tools I noticed that by default class *.row* has *margin-right: -15px;* and *margin-left: -15px;*
-
-To fix this I created new class *.no-row-margin* and set both margins to 0px.
-
-> After I gain more experience with bootstrap I found that I could achive this by [no-gutters](https://getbootstrap.com/docs/4.0/layout/grid/#no-gutters) class.
-
-> I read bootstrap documentation about [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/) and I decided to use predefined classes for paddings and margins in the project.
-By doing this I think my code looks cleaner and will be easier to understand by other developers.
-
-
-* #### Ipad screen compatibility
-
-I found a bugs on Ipad screens. I would like to keep years dates just above the stars, but they were shifted.
-
-![testing_issue_2](testing/testing_ipad_screen.png)
-
-I had to create a block element with a class "ipad-screen" and non-breaking space element inside a block element.
-In CSS file I had to create @media rule that will show this block element on Ipad displays only.
-
->}
-@media screen and (max-width: 991px) and (min-width: 0px),(min-width:1200px){
-    .ipad-screen {
-    display: none;
-}
-}
-
-![bug_solutino1](testing/bug_solution1.png)
-
-![bug_solutino2](testing/bug_solution2.png)
 
 ## Performance testing
 
