@@ -31,6 +31,7 @@ the User Centric Frontend Development Project.
     - [Known issues](#known-issues)
 - [Deployment](#deployment)
 - [Credits](#credits)
+    - [Aknowledgements](#aknowledgements)
 
 
 # UX
