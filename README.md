@@ -106,29 +106,14 @@ ___
 * HTML5
 * CSS
 
-### Bootstrap 
-* Bootstrap@4.5.3 as a CSS framework to keep responsive, mobile first aproach.
+## Frameworks, libraries and programs used
 
-### Font Awesome
-* As an icon library for a social links.
+* Bootstrap V5.1 - Used to assist with responsivness
+* Font Awesome - 
+* GitHub - Used to store project code
+* Gitpod - Used to write project code
+* Balsamiq - Used to create wireframes
 
-### Google fonts
-* As a font resource.
-
-### GitHub
-* As a software hosting platform to keep project in a remote location.
-
-### Git
-* As a version-control system tracking.
-
-### Gitpod
-* As a development hosting platform.
-
-### Wireframe.cc
-* As a wireframing tool.
-
-### GNU Image Manipulation Program [GIMP]
-* As an image editor.
 
 
 [Back to Table of contents](#table-of-contents)
