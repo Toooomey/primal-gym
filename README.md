@@ -55,11 +55,6 @@ the User Centric Frontend Development Project.
 
 ## User stories
 
-### As a business owner:
-* I would like to attract new customers to become members of the gym.
-* I would like the gym's website to clearly display what facilities we have to offer.
-* I would like to develop relationships with our customers through our social media platforms.
-
 ### As a new customer:
 * I want to be able to discover what are the opening hours.
 * I want to find out what equipment the gym currently has.
