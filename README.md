@@ -18,7 +18,7 @@ the User Centric Frontend Development Project.
 # Table of contents
 
 - [UX](#ux)
-    - [Website owner goals](#website-owner-business-goals)
+    - [Website owner business goals](#website-owner-business-goals)
     - [User goals](#user-goals)
         - [New user goals](#new-user-goals)
         - [Returning user goals](#returning-user-goals)
