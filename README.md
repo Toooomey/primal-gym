@@ -172,7 +172,7 @@ ___
 The project was deployed on GitHub Pages using the following steps
 To deploy a project I had to:
 
-* Log in to GitHub and click on repository to deploy ([MP1](https://github.com/marcin-kli/MP1))
+* Log in to GitHub and click on repository to deploy [Primal-Gym](https://github.com/Toooomey/primal-gym)
 * select `Settings` and find GitHub Pages section at the very bottom of the page
 * from source select `none` and then `Milestone-Projects` branch.
 * click `save` and page was deployed after auto-refresh.
