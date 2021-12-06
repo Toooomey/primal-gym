@@ -103,11 +103,8 @@ ___
 
 ## Languages used
 
-### HTML5
-* As a structure language.
-
-### CSS
-* As a style language.
+* HTML5
+* CSS
 
 ### Bootstrap 
 * Bootstrap@4.5.3 as a CSS framework to keep responsive, mobile first aproach.
