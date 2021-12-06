@@ -45,10 +45,11 @@ the User Centric Frontend Development Project.
 
 ## Website owner goals
 
-The main reason to create this website is to help present a fitness instructor to the public.
-Page owner can present herself, her professional development path, achievements and top skills.
-Also this website is the best place to show types of fitness classes, personal training and diet coaching descriptions.
-And at the end owner will be able to present an offer with available packages and prices.
+The reason for creating the Primal Gym Website is to gain exposure for a local gym and fitness club.
+The site aims to attract new gym members by showing what the gym has to offer in terms of equipment,
+classes and clubs. The site hopes to gain new members who will contact the gym after discovering the 
+clubs facilities and opening times.
+
 
 ## User goals
 
