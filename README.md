@@ -98,7 +98,7 @@ ___
 # Features
 
 This website is responsive across all devices.
-
+Website displays class information, opening hours, galleries and contact information.
 ___
 # Technologies used
 
