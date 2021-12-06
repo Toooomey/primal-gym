@@ -173,10 +173,10 @@ The project was deployed on GitHub Pages using the following steps
 To deploy a project I had to:
 
 * Log in to GitHub and find the repository [Primal-gym](https://github.com/Toooomey/primal-gym) then click to deploy.
-* Go to the `Settings` menu then to the GitHub Pages section
-* Find source select `Master Branch` and then `Primal-gym` branch.
-* click `save` and page was deployed after auto-refresh.
->  Your site is published at https://marcin-kli.github.io/MP1/
+* Go to the `Settings` menu then click the GitHub Pages section
+* Find source and select `Master Branch`
+* The page should automatically refresh
+>  This will now display in a green container - Your site is published at https://toooomey.github.io/primal-gym/
 
 To run localy:
 * Log in to GitHub and click on repository to download ([MP1](https://github.com/marcin-kli/MP1))
