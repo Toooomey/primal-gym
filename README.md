@@ -154,12 +154,14 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 
 ## Code validation
- At the and of the project I used two websites to validate a code
- 
- * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
- * [Nu Html Checker](https://validator.w3.org/) to test HTML
+
+To ensure all code is correct and proper code was validated using these sites:
+
+* [W3C HTML Validation](https://validator.w3.org/) - Validates HTML code.
+* [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Validates CSS code.
 
 ## Known issues
+
 * Table can leave vertical whitespace on mobile view
 
 [Back to Table of contents](#table-of-contents)
