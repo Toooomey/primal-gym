@@ -26,7 +26,7 @@ the User Centric Frontend Development Project.
     - [Functionality testing](#functionality-testing)
     - [Compatibility testing](#compatibility-testing)
     - [Performance testing](#performance-testing)
-    - [Code testing](#code-testing)
+    - [Code validation testing](#code-validation-testing)
     - [User stories testing](#user-stories-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -130,7 +130,7 @@ I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to 
 I had to do couple of changes to improve performance. Screenshots are presented below:
 
 
-## Code testing
+## Code validation testing
  At the and of the project I used two websites to validate a code
  
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
