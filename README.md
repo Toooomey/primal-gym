@@ -38,16 +38,14 @@ the User Centric Frontend Development Project.
 ## User stories
 
 ### As a new visitor:
-* I want to be able to discover what are the opening hours.
+* I want to find out what are the opening hours.
 * I want to find out what equipment the gym currently has.
+* I want to find out the contact details of the gym.
+* I want to find information about the facilties offered.
+* I want to find out what classes are available.
 * I want to find out what time classes are available.
-* I want to be able to easily contact the gym should I need to.
-* user is able to find information about facilties offered.
-* user is able to find out what classes are available.
-* user is able to find out location of gym.
-* user is able to find out opening times
-* user is able to find out how to contact gym.
-* user is able to find the gyms social media links.
+* I want to find out the location of gym.
+* I want to find the gyms social media links.
 
 ### As a returning visitor:
 
