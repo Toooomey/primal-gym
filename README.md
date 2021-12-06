@@ -56,17 +56,23 @@ the User Centric Frontend Development Project.
 * I would like to be able to view the contact details of the gym.
 * I want to build relationships with gym members via social media.
 
+[Back to Table of contents](#table-of-contents)
+
 ## Website structure
 
 The Primal Gym website is meant to be a responsive website that displays well and is easy to use across all media screen sizes.
 The site consists of a home page, gallery, classes, and contact page. The links are clearly labelled and are direct users to the content
 they would like to view.
 
+[Back to Table of contents](#table-of-contents)
+
 ## Wireframes
 
 To create the site wireframes I used the software Balsamiq.
 
 ![Wireframes](https://i1.lensdump.com/i/gNwwz3.png)
+
+[Back to Table of contents](#table-of-contents)
 
 ## Design
 
@@ -80,7 +86,6 @@ To create the site wireframes I used the software Balsamiq.
 ### Images
 
 * I used images from [Unsplash.com](www.unsplash.com) These are given credit in the [credits](#credits) section.
-
 
 [Back to Table of contents](#table-of-contents)
 ___
