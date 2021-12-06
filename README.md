@@ -11,7 +11,7 @@ The main aim is to build an HTML and CSS based website, incorporating the use of
 the User Centric Frontend Development Project.
 
 
-## [Live Site Github Pages](https://toooomey.github.io/primal-gym/)
+## [Live Site - Github Pages](https://toooomey.github.io/primal-gym/)
 ---
 
 # Table of contents
