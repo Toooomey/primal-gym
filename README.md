@@ -35,7 +35,6 @@ the User Centric Frontend Development Project.
     - [Performance testing](#performance-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
-- [Screenshots](#screenshots)
 
 
 # UX
@@ -337,24 +336,3 @@ ___
 
 [Back to Table of contents](#table-of-contents)
 ___
-
-# Screenshots
-
-## Project screenshots
-
-![bug_performance1](md_images/screenshots/home_1.png)
-
-![bug_performance1](md_images/screenshots/home_2.png)
-
-![bug_performance1](md_images/screenshots/about.png)
-
-![bug_performance1](md_images/screenshots/offer_1.png)
-
-![bug_performance1](md_images/screenshots/offer_2.png)
-
-![bug_performance1](md_images/screenshots/offer_3.png)
-
-![bug_performance1](md_images/screenshots/contact.png)
-
-
-[Back to Table of contents](#table-of-contents)
