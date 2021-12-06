@@ -108,11 +108,14 @@ ___
 
 ### Frameworks, libraries and programs used
 
-* Bootstrap V5.1 - Used to assist with responsivness
-* Font Awesome - 
-* GitHub - Used to store project code
-* Gitpod - Used to write project code
-* Balsamiq - Used to create wireframes
+* Bootstrap V5.1 - Used to assist with responsivness.
+* JQuery - Used to make navbar + tables responsive.
+* Font Awesome - Used for navbar brand logo.
+* Gitpod - Used to write project code.
+* GitHub - Used to store project code.
+* Balsamiq - Used to create wireframes.
+* TinyPNG - Used to compress images.
+* ResizePixel - Used to resize images.
 
 
 
