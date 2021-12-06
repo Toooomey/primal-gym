@@ -107,7 +107,7 @@ The Main colours used in the project were black, white and red:
 
 ### Images
 
-* I used images from [Unsplash.com](www.unsplash.com) These are in the [credits](#credits) section.
+* I used images from [Unsplash.com](www.unsplash.com) These are given credit in the [credits](#credits) section.
 
 
 [Back to Table of contents](#table-of-contents)
