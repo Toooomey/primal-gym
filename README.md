@@ -23,10 +23,10 @@ the User Centric Frontend Development Project.
     - [Design](#design)
 - [Features](#features)
 - [Testing](#testing)
-    - [Functionality testing](#functionality-testing)
-    - [Compatibility testing](#compatibility-testing)
-    - [Performance testing](#performance-testing)
-    - [Code validation testing](#code-validation-testing)
+    - [Functionality](#functionality)
+    - [Compatibility](#compatibility)
+    - [Performance](#performance)
+    - [Code validation](#code-validation)
     - [User stories testing](#user-stories-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -114,23 +114,23 @@ ___
 ___
 # Testing
 
-## Functionality testing 
+## Functionality
 
  I used Mozilla web developer tools and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
 
 
-## Compatibility testing
+## Compatibility
  Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in both Mozilla web developer tolls and Chrome developer tools. 
  
  I tested on hardware devices such as: Lenovo ideapad with Ubuntu and Windows OS's, Lenovo smartphone with Android 7, Google pixel 3 with Android 11.
  
- ## Performance testing
+ ## Performance
 
 I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
 I had to do couple of changes to improve performance. Screenshots are presented below:
 
 
-## Code validation testing
+## Code validation
  At the and of the project I used two websites to validate a code
  
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
