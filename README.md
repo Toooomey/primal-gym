@@ -201,24 +201,18 @@ original repository. To do this:
 ___
 # Credits
 
-* To finish this project I used the Code Institute template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
-* * [Bootstrap V5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-
 ### Code
 
-*
-* Bootstrap: [Kitchen sink](https://getbootstrap.com/docs/4.0/components/card/#kitchen-sink)
-* Bootstrap: [Burger menu](https://getbootstrap.com/docs/4.5/components/navbar/#text)
-* Bootstrap: [Jumbotron](https://getbootstrap.com/docs/4.5/components/jumbotron/)
-* Bootstrap: [Form](https://getbootstrap.com/docs/4.5/components/forms/)
-### Content:
-*  General content:  [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
+* Bootstrap: [Cards](https://getbootstrap.com/docs/5.1/components/card/)
+* Bootstrap: [Grid](https://getbootstrap.com/docs/5.1/layout/grid/)
+* Bootstrap: [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/)
+* Bootstrap: [Tables](https://getbootstrap.com/docs/5.1/content/tables/)
 
-### Map location:
-* [fitlife.ie](http://fitlife.ie/)
+### Content:
+* To finish this project I used the Code Institute template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 ### Map:
-* [Google maps](https://www.google.com/maps?ll=52.059441,-9.511501&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=7306226195280410511)
+* [Maps generator](https://maps-generator.com/)
 
 ### Images:
 
