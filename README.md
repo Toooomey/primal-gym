@@ -155,7 +155,7 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 ## Code validation
 
-To ensure all code is correct and proper code was validated using these sites:
+To ensure all code is correct and without issue it was validated using the following sites:
 
 * [W3C HTML Validation](https://validator.w3.org/) - Validates HTML code.
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Validates CSS code.
