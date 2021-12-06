@@ -109,14 +109,14 @@ ___
 ### Frameworks, libraries and programs used
 
 * [Bootstrap V5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Used to assist with responsivness.
-* Bootstrap V5.1 - Used to assist with responsivness.
-* JQuery - Used to make navbar + tables responsive.
-* Font Awesome - Used for navbar brand logo.
-* Gitpod - Used to write project code.
-* GitHub - Used to store project code.
-* Balsamiq - Used to create wireframes.
-* TinyPNG - Used to compress images.
-* ResizePixel - Used to resize images.
+* [JQuery](https://jquery.com/) - Used to make navbar + tables responsive.
+* [Font Awesome](https://fontawesome.com/v6.0) - Used for navbar brand logo.
+* [Gitpod](https://gitpod.io/projects) - Used to write project code.
+* [GitHub](https://github.com/) - Used to store project code.
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+* [TinyPNG](https://tinypng.com/) - Used to compress images.
+* [ResizePixel](https://www.resizepixel.com/) - Used to resize images.
+
 
 
 
