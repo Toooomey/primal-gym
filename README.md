@@ -12,8 +12,6 @@ attract new members to the club while providing users details of the facilities 
 The main aim is to build an HTML and CSS based website, incorporating the use of Boostrap in certain elements, which is responsive and easy to use. This is for 
 the User Centric Frontend Development Project.
 
-
-## [Live Webite - Github Pages](https://toooomey.github.io/primal-gym/)
 ---
 
 # Table of contents
