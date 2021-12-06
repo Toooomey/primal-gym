@@ -48,7 +48,7 @@ the User Centric Frontend Development Project.
 
 ### As a returning visitor:
 
-* I want to be able to check class timetables.
+* I want to be able to check what time a certain class is.
 * I want to be able to check the opening hours of the gym.
 * I would like to be able to view the location of the gym.
 * I would like to be able to view the contact details of the gym.
@@ -120,21 +120,21 @@ ___
 - I want to find information about the facilties offered.
     > New visitors can see on the main page the selection of facilities offered such as weightlifting, fitness, crossfit and yoga.
 
-- I want to find out what time classes are available.
+- I want to find out what classes are available.
     > New visitors can find class timetables on the classes page.
 
 - I want to find out the location of gym.
     > New visitors can find the address and a map detailing the location of the gym on the contact page.
 
 ### As a returning visitor:
-- I need to contact my diet coach to reschedule my meeting.
-    > User can find a contact form in contact page. Alternatively can use social channels or email.
+-  I want to be able to check the opening hours of the gym.
+    > Returning visitors can find gym opening hours on the contact page.
 
-- I would like to check timetable for current days and times for a group trainings.
-    > Each site has time table at the bottom of the page.
+- I want to build relationships with gym members via social media.
+    > Returning visitors can view links to all of the gym's social media platforms in the footer.
 
-- I want to show my friend a location of the fitness studio where we can join for a semi private personal training.
-    > Each page contains location information in a footer. Users are able to find a location map in contact page.
+-  I want to be able to check what time a certain class is.
+    > Returning visitors can check specific class times on the classes page.
 
 
 ## Functionality
