@@ -22,6 +22,7 @@ the User Centric Frontend Development Project.
     - [Wireframes](#wireframes)
     - [Design](#design)
 - [Features](#features)
+- - [Technologies used](#technologies-used)
 - [Testing](#testing)
     - [User stories testing](#user-stories-testing)
     - [Functionality](#functionality)
