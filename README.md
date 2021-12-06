@@ -4,6 +4,7 @@
 
 ![Mockup](https://i3.lensdump.com/i/gNcAED.png)
 
+## [Live Webite - Github Pages](https://toooomey.github.io/primal-gym/)
 
 This website is to showcase a fictional local gym based in Llandaff Fields, looking to gain exposure and
 attract new members to the club while providing users details of the facilities available.
