@@ -107,8 +107,6 @@ ___
 * [ResizePixel](https://www.resizepixel.com/) - Used to resize images.
 
 
-
-
 [Back to Table of contents](#table-of-contents)
 
 ___
@@ -159,7 +157,6 @@ I had to do couple of changes to improve performance. Screenshots are presented 
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
  * [Nu Html Checker](https://validator.w3.org/) to test HTML
 
----
 ## Known bugs
 
 
