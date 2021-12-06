@@ -117,8 +117,8 @@ ___
 ## User stories testing
 
 ### As a new visitor:
-- wish to find information about personal trainer and check her/his qualifications.
-    > User can see essential description on the home page. More information can be find in about page.
+- I want to find information about the facilties offered.
+    > New visitors can see on the main page the selection of facilities offered such as weightlifting, fitness, crossfit and yoga.
 
 - I would like to contact with a diet coach to change my eating habits and start healthy lifestyle.
     > User can find a contact form in contact page. Alternatively can use an email. Email address if located in a footer the bottom of each page.
