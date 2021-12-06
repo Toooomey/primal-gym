@@ -87,7 +87,7 @@ clubs facilities and flexible opening times.
 ## Structure of the website
 
 The Primal Gym website is meant to be a responsive website that displays well and is easy to use across all media screen sizes.
-This consists of a Home page, gallery, classes, and contact page. The links are clearly labelled and are direct users to the content
+The site consists of a home page, gallery, classes, and contact page. The links are clearly labelled and are direct users to the content
 they would like to view.
 
 ## Wireframes
