@@ -99,15 +99,15 @@ To create the site wireframes I used the software Balsamiq.
 ## Surface
 
 ### Colors
-Main colours used in a project:
-* background color: #ccddff
-* font color: #6217ee
+The Main colours used in the project were black and red:
+
+* Navbar + footer: .danger-red
 * link color: #ff6600
-* hoover color: #ff9000
+* hover color: #ff9000
 
 ### Fonts 
 
-* As a main font I used Almarai, and as a backup font sans-serif
+* As a main font I used Sans-serif, and an alternate font for the Headers Montserrat.
 
 ### Images
 
