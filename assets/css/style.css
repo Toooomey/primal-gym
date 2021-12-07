@@ -107,10 +107,12 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
     word-spacing: 28px;
-    text-align: -webkit-center;
     
 }
 
+.footer {
+    text-align: -webkit-center;
+}
 
 .bi:hover {
 
