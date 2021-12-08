@@ -106,6 +106,8 @@ h2 {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
     word-spacing: 28px;
     
 }
@@ -143,9 +145,4 @@ h2 {
     overflow-y: hidden;
     padding-bottom: 65px;
     
-}
-
-
-.footer {
-    text-align: center;
 }
