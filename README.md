@@ -40,7 +40,7 @@ the User Centric Frontend Development Project.
 ## User stories
 
 ### As a new visitor:
-* I want to find out what are the opening hours.
+* I want to find out what the opening hours are.
 * I want to find out what equipment the gym currently has.
 * I want to find out the contact details of the gym.
 * I want to find information about the facilties offered.
