@@ -172,7 +172,7 @@ This was solved by resizing and compressing the images:
 
 ## Known issues and fixes
 
-* Navbar on mobile devices covered navbar brand
+* Navbar on mobile devices covered navbar brand.
 
 ![Mockup](https://i.lensdump.com/i/gcVqDo.png)
 
@@ -182,7 +182,7 @@ To fix this I inserted the code ms-auto and float-xs-right:
 
 This shifts the burger menu to the right on mobile devices and clearly displays the navbar brand.
 
-* Footer icons displayed off-center on safari and IOS devices
+* Footer icons displayed off-center on safari and IOS devices.
 
 ![Mockup](https://i1.lensdump.com/i/gcVEv1.png)
 
