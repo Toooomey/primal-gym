@@ -2,15 +2,15 @@
 
 
 html {
-    min-height: 100%; 
-  }
+    min-height: 100%;
+}
 
 
-  body {
+body {
     min-height: 100%;
     background-image: url("../../assets/images/barbell1.jpg");
     background-size: cover;
-  }
+}
 
 
 /* Headers */
@@ -39,7 +39,7 @@ h2 {
 }
 
 .alternate-font {
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 
@@ -52,8 +52,8 @@ h2 {
 
 
 .navbar-brand {
-    
-    position:static; 
+
+    position: static;
 }
 
 /* Cards */
@@ -70,7 +70,7 @@ h2 {
     justify-content: space-evenly;
     padding-bottom: 50px;
     width: auto;
-    
+
 }
 
 
@@ -83,7 +83,7 @@ h2 {
     display: inline-block;
     margin: 4%;
     padding: 0%;
-    
+
 }
 
 .contact-text {
@@ -94,7 +94,7 @@ h2 {
 
 
 .gallery {
-    margin-bottom:65px;
+    margin-bottom: 65px;
 }
 
 
@@ -105,7 +105,7 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
     word-spacing: 28px;
-    
+
 }
 
 
@@ -116,29 +116,29 @@ h2 {
 
 
 /* Table */
-    
- 
-   .table {
+
+
+.table {
 
     max-width: 50%;
     margin: 0 auto;
     border: solid white;
-    
-   }
 
-   .table-container {
-       padding-top: 100px;
-       padding-bottom: 65px;
-   }
+}
+
+.table-container {
+    padding-top: 100px;
+    padding-bottom: 65px;
+}
 
 
-   /* Iframe */
+/* Iframe */
 
-   iframe {
+iframe {
     margin: 0 auto;
     display: block;
     width: 70%;
     overflow-y: hidden;
     padding-bottom: 65px;
-    
+
 }
