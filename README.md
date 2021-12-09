@@ -160,7 +160,7 @@ The website has been tested across multiple platforms, devices and browsers chec
 Performance for the website was checked using the Lighthouse extension in Chrome developer tools. 
 
 
-## known issues and fixes
+## Known issues and fixes
 
 * Table can leave vertical whitespace on mobile view
 
