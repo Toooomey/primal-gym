@@ -164,7 +164,7 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 * Navbar on mobile devices covered navbar brand
 
-![Mockup](https://i2.lensdump.com/i/gcVtDk.png)
+![Mockup](https://i3.lensdump.com/i/gcVd3i.png)
 
 To fix this I inserted the code ms-auto and float-xs-right:
 
