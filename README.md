@@ -176,6 +176,12 @@ This shifts the burger menu to the right on mobile devices and clearly displays 
 
 ![Mockup](https://i1.lensdump.com/i/gcVEv1.png)
 
+To fix this I had to remove text-align center from my CSS and use Boostrap d-flex and justify-content-center in the footer:
+
+![Mockup](https://i.lensdump.com/i/gcVTVH.png)
+
+This then justified the icons to center and displayed correctly accross all devices.
+
 [Back to Table of contents](#table-of-contents)
 
 
