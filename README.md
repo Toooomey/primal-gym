@@ -174,7 +174,7 @@ This shifts the burger menu to the right on mobile devices and clearly displays 
 
 * Footer icons displayed off-center on safari and IOS devices
 
-![Mockup](https://i2.lensdump.com/i/gcV0OM.png)
+![Mockup](https://i1.lensdump.com/i/gcVEv1.png)
 
 [Back to Table of contents](#table-of-contents)
 
