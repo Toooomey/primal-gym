@@ -152,7 +152,8 @@ The functionality of the site has been tested with chrome developer tools to che
 
 ## Compatibility
 
-The website has been tested across multiple platforms, devices and browsers checked with Chrome and Mozilla developer tools.
+The website has been tested across multiple platforms, Windows OS, Apple OS, tested on devices ranging from iphones to ipads, 
+android devices and tablets and has been checked with Chrome and Mozilla developer tools.
  
  
 ## Performance
