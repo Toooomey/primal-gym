@@ -9,9 +9,7 @@
 This website is to showcase a local gym based in Llandaff Fields, looking to gain exposure and
 attract new members to the club while providing users details of the facilities available.
 
-The main aim is to build an HTML and CSS based website, incorporating the use of Boostrap in certain elements, which is responsive and easy to use. This is for 
-the User Centric Frontend Development Project.
-
+The main aim is to build an HTML and CSS based website, incorporating the use of Boostrap in certain elements, which is responsive and easy to use. 
 ---
 
 # Table of contents
