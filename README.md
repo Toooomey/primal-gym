@@ -159,6 +159,16 @@ The website has been tested across multiple platforms, devices and browsers chec
 
 Performance for the website was checked using the Lighthouse extension in Chrome developer tools. 
 
+I initially had issues due to image sizes and compression:
+
+![Mockup](https://i2.lensdump.com/i/gcVX9x.png)
+
+![Mockup](https://i1.lensdump.com/i/gcVrse.png)
+
+This was solved by resizing and compressing the images:
+
+![Mockup](https://i1.lensdump.com/i/gcVcik.png)
+
 
 ## Known issues and fixes
 
