@@ -166,6 +166,12 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 ![Mockup](https://i2.lensdump.com/i/gcVtDk.png)
 
+To fix this I inserted the code:
+
+![Mockup](https://i3.lensdump.com/i/gcVRAx.png)
+
+This shifts the burger menu to the right on mobile devices and clearly displays the navbar brand.
+
 [Back to Table of contents](#table-of-contents)
 
 
