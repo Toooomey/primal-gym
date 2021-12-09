@@ -162,7 +162,9 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 ## Known issues and fixes
 
-* Table can leave vertical whitespace on mobile view
+* Navbar on mobile devices covered navbar brand
+
+![Mockup](https://i2.lensdump.com/i/gcVtDk.png)
 
 [Back to Table of contents](#table-of-contents)
 
