@@ -166,7 +166,7 @@ Performance for the website was checked using the Lighthouse extension in Chrome
 
 ![Mockup](https://i2.lensdump.com/i/gcVtDk.png)
 
-To fix this I inserted the code:
+To fix this I inserted the code ms-auto and float-xs-right:
 
 ![Mockup](https://i3.lensdump.com/i/gcVRAx.png)
 
