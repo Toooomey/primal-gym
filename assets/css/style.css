@@ -1,10 +1,6 @@
-/* Main Page */
-
-
 html {
     min-height: 100%;
 }
-
 
 body {
     min-height: 100%;
@@ -12,14 +8,9 @@ body {
     background-size: cover;
 }
 
-
-/* Headers */
-
-
 h1 {
     color: white;
 }
-
 
 h2 {
     text-align: center;
@@ -42,24 +33,15 @@ h2 {
     font-family: "Roboto", sans-serif;
 }
 
-
-/* Navbar */
-
 .navbar {
-
     position: relative;
 }
 
-
 .navbar-brand {
-
     position: static;
 }
 
-/* Cards */
-
 .container-fluid {
-
     position: relative;
 }
 
@@ -70,69 +52,47 @@ h2 {
     justify-content: space-evenly;
     padding-bottom: 50px;
     width: auto;
-
 }
 
 
 #card-container h2 {
     text-align: center;
-
 }
 
 .card {
     display: inline-block;
     margin: 4%;
     padding: 0%;
-
 }
 
 .contact-text {
     text-align: center;
 }
 
-/* Gallery */
-
-
 .gallery {
     margin-bottom: 65px;
 }
-
-
-/* Social Links */
-
 
 .social {
     padding-top: 10px;
     padding-bottom: 10px;
     word-spacing: 28px;
-
 }
 
-
 .bi:hover {
-
     fill: lightgray
 }
 
-
-/* Table */
-
-
 .table {
-
     max-width: 50%;
     margin: 0 auto;
     border: solid white;
-
 }
 
 .table-container {
     padding-top: 100px;
     padding-bottom: 65px;
 }
-
-
-/* Iframe */
 
 iframe {
     margin: 0 auto;
