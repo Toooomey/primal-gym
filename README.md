@@ -275,6 +275,12 @@ ___
 
 * [Anush Gorak](https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
+### Video links:
+
+* [Crossfit HQ](https://youtu.be/mlVrkiCoKkg)
+* [Olympics]( https://youtu.be/luwZaV4WdCE)
+* [Mens Health Mag](https://youtu.be/O_OUagMfBr0)
+* [Yoga With Adrienne](https://youtu.be/XN3JB67-a_k)
 
 [Back to Table of contents](#table-of-contents)
 ___
