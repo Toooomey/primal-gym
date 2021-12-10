@@ -54,7 +54,6 @@ h2 {
     width: auto;
 }
 
-
 #card-container h2 {
     text-align: center;
 }
@@ -100,5 +99,4 @@ iframe {
     width: 70%;
     overflow-y: hidden;
     padding-bottom: 65px;
-
 }
